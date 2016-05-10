@@ -1,0 +1,250 @@
+Parameter: 1
+Insertion-Time: 0.412161
+Look-Up Time: 0.062504
+Collisions: 96769
+
+Parameter: 2
+Insertion-Time: 0.318212
+Look-Up Time: 0.031252
+Collisions: 93590
+
+Parameter: 3
+Insertion-Time: 0.296878
+Look-Up Time: 0.031251
+Collisions: 93569
+
+Parameter: 4
+Insertion-Time: 0.318096
+Look-Up Time: 0.046895
+Collisions: 93571
+
+Parameter: 5
+Insertion-Time: 0.296878
+Look-Up Time: 0.046878
+Collisions: 93627
+
+Parameter: 6
+Insertion-Time: 0.295619
+Look-Up Time: 0.031271
+Collisions: 93569
+
+Parameter: 7
+Insertion-Time: 0.296877
+Look-Up Time: 0.031234
+Collisions: 93569
+
+Parameter: 8
+Insertion-Time: 0.313629
+Look-Up Time: 0.031255
+Collisions: 93605
+
+Parameter: 9
+Insertion-Time: 0.314373
+Look-Up Time: 0.019645
+Collisions: 93569
+
+Parameter: 10
+Insertion-Time: 0.457704
+Look-Up Time: 0.078324
+Collisions: 94268
+
+Parameter: 11
+Insertion-Time: 0.313444
+Look-Up Time: 0.015643
+Collisions: 93569
+
+Parameter: 12
+Insertion-Time: 0.321511
+Look-Up Time: 0.031251
+Collisions: 93576
+
+Parameter: 13
+Insertion-Time: 0.328111
+Look-Up Time: 0.031251
+Collisions: 93569
+
+Parameter: 14
+Insertion-Time: 0.323449
+Look-Up Time: 0.031235
+Collisions: 93569
+
+Parameter: 15
+Insertion-Time: 0.375003
+Look-Up Time: 0.047461
+Collisions: 93634
+
+Parameter: 16
+Insertion-Time: 0.324716
+Look-Up Time: 0.046858
+Collisions: 93615
+
+Parameter: 17
+Insertion-Time: 0.31751
+Look-Up Time: 0.03125
+Collisions: 93569
+
+Parameter: 18
+Insertion-Time: 0.317114
+Look-Up Time: 0.031253
+Collisions: 93569
+
+Parameter: 19
+Insertion-Time: 0.345141
+Look-Up Time: 0.046877
+Collisions: 93569
+
+Parameter: 20
+Insertion-Time: 0.64941
+Look-Up Time: 0.140647
+Collisions: 94729
+
+Parameter: 21
+Insertion-Time: 0.338007
+Look-Up Time: 0.031249
+Collisions: 93569
+
+Parameter: 22
+Insertion-Time: 0.328127
+Look-Up Time: 0.055505
+Collisions: 93570
+
+Parameter: 23
+Insertion-Time: 0.320682
+Look-Up Time: 0.046895
+Collisions: 93569
+
+Parameter: 24
+Insertion-Time: 0.363934
+Look-Up Time: 0.031253
+Collisions: 93635
+
+Parameter: 25
+Insertion-Time: 0.91229
+Look-Up Time: 0.227983
+Collisions: 95318
+
+Parameter: 26
+Insertion-Time: 0.374985
+Look-Up Time: 0.046878
+Collisions: 93569
+
+Parameter: 27
+Insertion-Time: 0.385084
+Look-Up Time: 0.031269
+Collisions: 93569
+
+Parameter: 28
+Insertion-Time: 0.376114
+Look-Up Time: 0.031232
+Collisions: 93573
+
+Parameter: 29
+Insertion-Time: 0.375929
+Look-Up Time: 0.046893
+Collisions: 93569
+
+Parameter: 30
+Insertion-Time: 0.616509
+Look-Up Time: 0.114559
+Collisions: 94227
+
+Parameter: 31
+Insertion-Time: 0.343772
+Look-Up Time: 0.047488
+Collisions: 93569
+
+Parameter: 32
+Insertion-Time: 0.37622
+Look-Up Time: 0.031232
+Collisions: 93637
+
+Parameter: 33
+Insertion-Time: 0.368887
+Look-Up Time: 0.035685
+Collisions: 93570
+
+Parameter: 34
+Insertion-Time: 0.390611
+Look-Up Time: 0.046877
+Collisions: 93583
+
+Parameter: 35
+Insertion-Time: 0.440153
+Look-Up Time: 0.062501
+Collisions: 93754
+
+Parameter: 36
+Insertion-Time: 0.428256
+Look-Up Time: 0.062484
+Collisions: 93620
+
+Parameter: 37
+Insertion-Time: 0.412107
+Look-Up Time: 0.046875
+Collisions: 93573
+
+Parameter: 38
+Insertion-Time: 0.374986
+Look-Up Time: 0.046895
+Collisions: 93586
+
+Parameter: 39
+Insertion-Time: 0.411051
+Look-Up Time: 0.046875
+Collisions: 93575
+
+Parameter: 40
+Insertion-Time: 0.851539
+Look-Up Time: 0.304022
+Collisions: 95368
+
+Parameter: 41
+Insertion-Time: 0.432047
+Look-Up Time: 0.048003
+Collisions: 93575
+
+Parameter: 42
+Insertion-Time: 0.401392
+Look-Up Time: 0.046879
+Collisions: 93584
+
+Parameter: 43
+Insertion-Time: 0.399129
+Look-Up Time: 0.046873
+Collisions: 93576
+
+Parameter: 44
+Insertion-Time: 0.392118
+Look-Up Time: 0.062502
+Collisions: 93594
+
+Parameter: 45
+Insertion-Time: 0.431225
+Look-Up Time: 0.062503
+Collisions: 93659
+
+Parameter: 46
+Insertion-Time: 0.376107
+Look-Up Time: 0.046877
+Collisions: 93583
+
+Parameter: 47
+Insertion-Time: 0.376674
+Look-Up Time: 0.046876
+Collisions: 93574
+
+Parameter: 48
+Insertion-Time: 0.400294
+Look-Up Time: 0.046893
+Collisions: 93696
+
+Parameter: 49
+Insertion-Time: 0.393775
+Look-Up Time: 0.035637
+Collisions: 93578
+
+Parameter: 50
+Insertion-Time: 2.44312
+Look-Up Time: 0.818872
+Collisions: 97255
+
